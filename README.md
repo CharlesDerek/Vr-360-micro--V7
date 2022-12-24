@@ -1,7 +1,9 @@
-# GoldyDogV4
+# GoldyDogV7
 
-[![Env](Gifs/GoldyDogV4wInsta360.gif)](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)\
-[GoldyDogV4 w/ Insta360](https://poly.cam/capture/64365421-F546-46C2-90AB-B86434DDAE5A)
+[![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
+[GoldyDogV7 w/ Insta360](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+
+Video of robot: https://www.youtube.com/watch?v=S-uzWG9Z-5E
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
