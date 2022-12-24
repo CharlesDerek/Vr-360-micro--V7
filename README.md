@@ -11,8 +11,8 @@
 [![Env](Gifs/GoldyDogV7Stanford1.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [Click here to view GoldyDogV7 Robot Perspective](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 
-[![Env](Gifs/GoldyDogV7Stanford2.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
-[Click here to view GoldyDogV7 Robot Perspective](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+[![Env](Gifs/GoldyDogV7Stanford2.gif)](https://www.youtube.com/watch?v=BgfrBh9Sr2Y&t=4s)\
+[GoldyDogV7 Outside view](https://www.youtube.com/watch?v=BgfrBh9Sr2Y&t=4s)
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
