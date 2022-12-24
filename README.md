@@ -22,14 +22,16 @@ This project is the source code for a Spot Micro quadruped, a 4 legged open sour
 The software is composed of C++ and Python nodes in a ROS framework.
 
 #### Hardware:
-The frame utilized is the Thingverse Spot Micro frame developed by KDY0523. See [the thingverse page](https://www.thingiverse.com/thing:3445283) for additional details for assembly hardware. The files for cls6336hv servos were printed which also fit the hv5523mg servos I used.
+This design is my own, made with inspiration from the open source community, it incorporates lightweight carbon fiber structural elements held together by high durability PETG and heat absorbing HTPLA filled with copper. The parts closest to the servos are made out of copper to act as a heatsink, and the rest of 3D printed parts are PETG. 
+
+The Robot is based on the Thingverse Spot Micro frame developed by KDY0523. See [the thingverse page](https://www.thingiverse.com/thing:3445283) for additional details for assembly hardware. The files for cls6336hv servos were printed which also fit the hv5523mg servos.
 
 Component List:
-* Computer: Raspberry Pi 3B 
+* Computer: Raspberry Pi 4B 8gb 
 * Servo control board: PCA9685, controlled via i2c
 * Servos: 12 x PDI-HV5523MG
 * LCD Panel: 16x2 i2c LCD panel (Optional)
-* Battery: 2s 4000 mAh Lipo, direct connection to servo board for servo power
+* Battery: 2s 5200 mAh Lipo, direct connection to servo board for servo power
 * UBEC: HKU5 5V/5A ubec, used as 5v voltage regulator to power raspberry pi, lcd panel, pca9685 control board.
 * Lidar: RPLidar A1
 * Custom 3d printed parts for mounts and reinforcements
