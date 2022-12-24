@@ -7,6 +7,7 @@
 [Click here to view GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 
 [![Env](Gifs/GoldyDogV7Stanford.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
+[![Env](Gifs/GoldyDogV7Stanford0.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [Click here to view GoldyDogV7 Robot Perspective](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 
 * [Overview](#Overview)
