@@ -2,6 +2,8 @@
 
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [GoldyDogV7 w/ Insta360](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+[![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
+[GoldyDogV7 w/ Insta360 CAD](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 
 Video of robot: https://www.youtube.com/watch?v=S-uzWG9Z-5E
 
