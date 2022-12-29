@@ -9,7 +9,7 @@ An Open Source Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1
 <br />
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
-[GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+[GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [GoldyDogV7 w/ Insta360 1:1 WebVR Model](https://goldydogv7.glitch.me)
 <br />
 
