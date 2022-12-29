@@ -6,17 +6,21 @@ An Open Source Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1
 
 [![Env](Gifs/GoldyDogV7wInsta360.gif)](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)\
 [Click here to view GoldyDogV7 w/ Insta360 3D Model](https://poly.cam/capture/2E7A09DC-651E-457D-BC65-34B380F1FFC4)
+<br />
 
 [![Env](Gifs/GoldyDogV7wInsta360CAD.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [Click here to view GoldyDogV7 w/ Insta360 CAD Model](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+<br />
 
 [![Env](Gifs/GoldyDogV7Stanford.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [![Env](Gifs/GoldyDogV7Stanford0.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)\
 [![Env](Gifs/GoldyDogV7Stanford1.gif)](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
 [Click here to view GoldyDogV7 Robot Perspective](https://collaborate.shapr3d.com/v/TyNZZo2E9wQ8442WcQJLR)
+<br />
 
 [![Env](Gifs/GoldyDogV7Stanford2.gif)](https://www.youtube.com/watch?v=BgfrBh9Sr2Y&t=4s)\
 [GoldyDogV7 Outside view](https://www.youtube.com/watch?v=BgfrBh9Sr2Y&t=4s)
+<br />
 
 * [Overview](#Overview)
 * [General Instructions](#general-instructions)
