@@ -1,5 +1,5 @@
 ###### READMEv7.0 <br/> Made with ❤️ by [Felipe Galindo](https://felipegalind0.github.io)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=GoldyDog%20Sponsors&logoColor=FEC328)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Felipegalind0?label=GoldyDog%20Sponsors&logoColor=FEC328)](https://github.com/sponsors/Felipegalind0)
 # GoldyDogV7
 
 An Open Source Lightweight Quadruped Robotics Platform with a MPU-6050, LiDAR A1, RP4B, Insta360, 4g connectivity  & an Airtag
